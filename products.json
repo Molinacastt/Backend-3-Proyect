@@ -1,11 +1,1 @@
-[
-    {
-        "tittle": "Jabon",
-        "description": "Limpia mucho",
-        "stock": 2,
-        "code": "B435",
-        "thumbnail": [],
-        "price": 220,
-        "id": "f2d38166b1b5"
-    }
-]
+[{"tittle":"Jabon","description":"Limpia mucho","stock":2,"code":"B435","thumbnail":[],"price":220,"id":"f2d38166b1b5"}]
